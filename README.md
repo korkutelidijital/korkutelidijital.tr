@@ -1,2 +1,1 @@
-# korkutelidijital.tr
-korkuteli dijital
+
